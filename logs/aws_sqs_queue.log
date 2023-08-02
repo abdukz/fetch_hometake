@@ -1,0 +1,43 @@
+2023-08-01 15:54:22 INFO     Found credentials in shared credentials file: ~/.aws/credentials
+2023-08-01 15:54:22 INFO     Created temporary table
+2023-08-01 15:54:22 INFO     Loaded 1 records to temp table
+2023-08-01 15:54:22 INFO     Upserted 1 records into target table
+2023-08-01 15:56:49 INFO     Found credentials in shared credentials file: ~/.aws/credentials
+2023-08-01 15:56:49 INFO     Created temporary table
+2023-08-01 15:56:49 INFO     Loaded 1 records to temp table
+2023-08-01 15:56:49 INFO     Upserted 1 records into target table
+2023-08-01 15:58:06 INFO     Found credentials in shared credentials file: ~/.aws/credentials
+2023-08-01 15:58:06 INFO     Created temporary table
+2023-08-01 15:58:06 INFO     Loaded 1 records to temp table
+2023-08-01 15:58:06 INFO     Upserted 1 records into target table
+2023-08-01 15:58:09 INFO     Found credentials in shared credentials file: ~/.aws/credentials
+2023-08-01 15:58:09 INFO     Created temporary table
+2023-08-01 15:58:09 INFO     Loaded 1 records to temp table
+2023-08-01 15:58:09 INFO     Upserted 1 records into target table
+2023-08-01 15:58:11 INFO     Found credentials in shared credentials file: ~/.aws/credentials
+2023-08-01 15:58:11 INFO     Created temporary table
+2023-08-01 15:58:11 INFO     Loaded 1 records to temp table
+2023-08-01 15:58:11 INFO     Upserted 1 records into target table
+2023-08-01 15:58:13 INFO     Found credentials in shared credentials file: ~/.aws/credentials
+2023-08-01 15:58:13 INFO     Created temporary table
+2023-08-01 15:58:13 INFO     Loaded 1 records to temp table
+2023-08-01 15:58:13 INFO     Upserted 1 records into target table
+2023-08-01 16:05:31 INFO     Found credentials in shared credentials file: ~/.aws/credentials
+2023-08-01 16:05:31 INFO     Created temporary table
+2023-08-01 16:05:31 INFO     Loaded 1 records to temp table
+2023-08-01 16:05:31 INFO     Upserted 1 records into target table
+2023-08-01 22:07:30 INFO     Found credentials in shared credentials file: ~/.aws/credentials
+2023-08-01 22:07:31 INFO     Created temporary table
+2023-08-01 22:07:31 INFO     Loaded 1 records to temp table
+2023-08-01 22:07:31 INFO     Upserted 1 records into target table
+2023-08-01 22:10:34 INFO     Found credentials in shared credentials file: ~/.aws/credentials
+2023-08-01 22:10:35 INFO     Created temporary table
+2023-08-01 22:10:35 INFO     Loaded 1 records to temp table
+2023-08-01 22:10:35 INFO     Upserted 1 records into target table
+2023-08-01 22:10:47 INFO     Found credentials in shared credentials file: ~/.aws/credentials
+2023-08-01 22:10:47 INFO     Created temporary table
+2023-08-01 22:10:48 INFO     Loaded 1 records to temp table
+2023-08-01 22:10:48 INFO     Upserted 1 records into target table
+2023-08-01 22:22:31 INFO     Found credentials in shared credentials file: ~/.aws/credentials
+2023-08-01 22:24:23 INFO     Found credentials in shared credentials file: ~/.aws/credentials
+2023-08-01 22:24:33 INFO     Found credentials in shared credentials file: ~/.aws/credentials
